@@ -216,9 +216,6 @@ Global
 		{D90500AE-BC73-4084-B19A-8D710C306326}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{D90500AE-BC73-4084-B19A-8D710C306326}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Android\WorkingWithDevice.Android.csproj
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
